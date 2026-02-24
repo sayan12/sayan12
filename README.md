@@ -14,36 +14,36 @@ I am a results-driven **Software Engineer** specializing in **embedded systems, 
 
 ## 🛠️ Technical Toolbox
 
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,rust,java,js,react,cmake,linux,git,github,androidstudio,visualstudio,postman,redhat)](https://skillicons.dev)
 
-* **Languages:** C/C++, Python, Rust, Java, Javascript, React.
-* **Protocols:** HTTPS, UDP, COAP, DTLS, TCP/IP, LTE/NR.
-* **Libraries:** Embedded Firmware, C++ Sockets, Google Protocol Buffers, Android NDK/AOSP, OpenSSL.
-
-### 🔧 Tools & Systems
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+### 📂 Specialized Categories
+| Category | Icons |
+| :--- | :--- |
+| **Embedded & Systems** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) |
+| **Networking** | ![TCP/IP](https://img.shields.io/badge/-Networking-4285F4?logo=google-cloud&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) |
+| **Mobile & NDK** | ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔷 Software Engineer | Qualcomm
-*January 2023 – Present*
+### 🔷 Qualcomm - Software Engineer
+*January 2023 – Present | Modem Software & Networking Team*
 
-* **HTTP Stack Development:** Built systems for mobile & IoT device diagnostics over TCP, UDP, or CoAP.
-* **Android NDK:** Developed and solved Android-based framework issues and unit testing for various embedded devices.
-* **IoT Interfaces:** Managed the interface between IoT devices, modem, and HLOS using **LwM2M** and **Google Protocol Buffers**.
-* **Performance Optimization:** Analyzed and optimized algorithms for maximum efficiency in terms of power and latency for Snapdragon-powered devices.
-* **MQTT Maintenance:** Maintained and optimized an MQTT stack tailored for WWAN-based modems.
-* **Automation:** Leveraged **Python** for debugging and automation scripting.
+* **HTTP Stack Development:** Built systems for mobile & IoT device diagnostics over TCP, UDP, or CoAP and developed an Android HTTP stack on HLOS for ML training data/log packets.
+* **Android NDK Development:** Solved Android-based framework issues and performed unit testing by integrating code into various embedded devices and clients.
+* **IoT Interface Management:** Utilized C++ and the LwM2M framework to manage interfaces between IoT devices and servers using Google Protocol Buffers.
+* **Performance Optimization:** Analyzed and optimized algorithms to improve power and latency efficiency for Snapdragon-powered devices.
+* **MQTT Maintenance:** Maintained and optimized an MQTT stack tailored for WWAN-based modems for cloud communication.
+* **Automation:** Leveraged Python for debugging and automation scripting to improve development workflows.
 
-### ✈️ Associate Software Engineer | Airbus
+### ✈️ Airbus - Associate Software Engineer
 *July 2022 – January 2023*
 
-* **Flight Warning System (FWS):** Designed and implemented various classes and methods to increase the performance of existing software.
-* **SDLC:** Followed V-Life cycle development processes from requirement gathering to Object-Oriented Analysis and Design.
-* **Collaboration Tools:** Created G-sites and custom components for internal Airbus communication.
+* **Flight Warning System (FWS):** Designed and implemented various classes and methods to increase the performance of the existing software for the FWS.
+* **SDLC:** Followed the V-Life cycle for requirement gathering and performed Object-Oriented Analysis and Design for key interfaces.
+* **Collaboration:** Created custom components and G-sites for internal communication and collaboration within Airbus.
 
 ---
 
@@ -57,13 +57,15 @@ I am a results-driven **Software Engineer** specializing in **embedded systems, 
 
 ## 📸 Beyond the Code
 * 🏔️ **Trekking:** Enthusiast who stays fit at the gym specifically to prepare for mountain treks.
-* 📸 **Photography:** Often found shooting with my **Sony a7 III** or flying my **DJI Mini 4 Pro**.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera" width="25" height="25" /> **Photography:** Shooting with a **Sony a7 III** and **DJI Mini 4 Pro** drone.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> **Gaming:** Fan of **Mortal Kombat** and **Ghost of Tsushima**.
 * ⚽ **Football:** Loyal supporter of **AS Roma** and **Inter Milan**.
-* 🎮 **Gaming:** Currently exploring **Ghost of Tsushima** and **Mortal Kombat**.
 
 ---
 
 ## 📫 Connect with Me
-* 📧 **Email:** [sayankarmakar10@gmail.com](mailto:sayankarmakar10@gmail.com)
-* 💼 **LinkedIn:** [in/sayankarmakar](https://linkedin.com/in/sayankarmakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayankarmakar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayankarmakar10@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+
 * 📞 **Phone:** +91-9635531400
